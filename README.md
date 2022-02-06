@@ -1,3 +1,4 @@
+![BCI Fig1](https://user-images.githubusercontent.com/42321349/152700702-1f14e2d6-cbe5-45a7-b9ec-9f8fc5b01a5b.png)
 
 # SCSP-PSO-BCI
 
@@ -46,4 +47,4 @@ CSP, Stationary CSP ( SCSP ) is used.
 
 References - https://github.com/wmvanvliet/neuroscience_tutorials/blob/master/eeg-bci/3.%20Imagined%20movement.ipynb https://github.com/breuderink/eegtools
 
-![BCI Fig1](https://user-images.githubusercontent.com/42321349/152700702-1f14e2d6-cbe5-45a7-b9ec-9f8fc5b01a5b.png)
+
