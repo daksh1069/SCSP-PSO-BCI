@@ -29,7 +29,9 @@ distinguish motor imagery tasks using EEG signal. SCSP will be used to represent
 will investigate both linear and non-linear classifiers to build decision model with publicly available
 motor imagery tasks dataset.!
 
-Proposed Model Architecture - 
+
 ![Proposed Model](https://user-images.githubusercontent.com/42321349/152700647-0ba0fd7e-9665-4de7-8c88-caaff92a6f9f.png)
+
+       Proposed Model Architecture - 
 
 ![BCI Fig1](https://user-images.githubusercontent.com/42321349/152700702-1f14e2d6-cbe5-45a7-b9ec-9f8fc5b01a5b.png)
