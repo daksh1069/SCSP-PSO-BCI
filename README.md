@@ -1,4 +1,4 @@
-![BCI Fig1](https://user-images.githubusercontent.com/42321349/152700686-305bc466-695f-43ba-8519-572eb99489eb.png)
+
 # SCSP-PSO-BCI
 
 Brain-computer interfaces (BCls) and translate acquired brain signals into commands and
@@ -30,5 +30,6 @@ will investigate both linear and non-linear classifiers to build decision model 
 motor imagery tasks dataset.!
 
 Proposed Model Architecture - 
-[Proposed Model](https://user-images.githubusercontent.com/42321349/152700647-0ba0fd7e-9665-4de7-8c88-caaff92a6f9f.png)
+![Proposed Model](https://user-images.githubusercontent.com/42321349/152700647-0ba0fd7e-9665-4de7-8c88-caaff92a6f9f.png)
+
 ![BCI Fig1](https://user-images.githubusercontent.com/42321349/152700702-1f14e2d6-cbe5-45a7-b9ec-9f8fc5b01a5b.png)
